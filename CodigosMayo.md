@@ -8,7 +8,7 @@ void main(List<String> args) {
   print("-" * 28);
   Mueble m2 = Mueble();
   m2.ShowCounter();
-  print('Propiedad de clase MMuevle: ${Mueble.counterStatic}');
+  print('Propiedad de clase Mueble: ${Mueble.counterStatic}');
 }
 
 class Mueble {
